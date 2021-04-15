@@ -2,17 +2,23 @@ body{
     background-color: grey;
 }
 
-#mainTest{
+#mainTest {
+    text-align: center;
+}
+
+.cards{
     background-color: cyan;
 
-    width: 500px;
-    height: 300px;
+    width: 300px;
+    height: 250px;
 
     margin: auto;
     margin-top: 50px;
     padding-top: 10px;
 
     border-radius: 15px;
+    border-width: 3px;
+    border-style: solid;
 
     text-align: center;
 }
